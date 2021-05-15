@@ -38,6 +38,6 @@ Finally, we will complete a machine learning approach to building recommendation
 
 As we use SVD for matrix factorization and then predict the test data, one of the parameters that is important for prediction is the latent factors of the SVD model. we have tried to plot the actual vs predicted values error for different latent factors, and the plot below represents this:
 
-![](images/Screenshot 2021-05-15 at 15.41.04.png)
+![](images/validation_plot.png)
 
 
