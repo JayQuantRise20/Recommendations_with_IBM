@@ -4,7 +4,7 @@
 
 For this project we will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles you think they will like. Below you can see an example of what the dashboard could look like displaying articles on the IBM Watson Platform.
 
-Their website linke is (here)[https://www.ibm.com/cloud/watson-studio?p1=Search&p4=43700059185429456&p5=e&gclid=Cj0KCQjw4v2EBhCtARIsACan3nwTiXZu1EUsjWbFsyuEsmUGqXqjEA9ONsCHAy7TdF8umEdld1JtQgMaAhmiEALw_wcB&gclsrc=aw.ds] and you can take a look. 
+Their website linke is [here](https://www.ibm.com/cloud/watson-studio?p1=Search&p4=43700059185429456&p5=e&gclid=Cj0KCQjw4v2EBhCtARIsACan3nwTiXZu1EUsjWbFsyuEsmUGqXqjEA9ONsCHAy7TdF8umEdld1JtQgMaAhmiEALw_wcB&gclsrc=aw.ds] and you can take a look.) 
 
 ## Motivation:
 
