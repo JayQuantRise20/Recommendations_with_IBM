@@ -40,4 +40,19 @@ As we use SVD for matrix factorization and then predict the test data, one of th
 
 ![](images/validation_plot.png)
 
+### Acknowledgment:
+
+Many Thanks to Udacity for providing me this opportunity to work on this project and all the support.
+
+This project is open for public and I appreciate any comments and any developments that can help to provide better results from analysing the data.
+
+Other models in Machine Learning are needed to improve or compare with these results. Those models would be added in future and I welcome any contributors or helps from other data scientists.
+
+
+### Contributions: 
+
+We could now save our recommendations for each user, develop a class to make new predictions and update your results, and make a flask app to deploy your results. These tasks are beyond what is required for this project. However, from what you learned in the lessons, you certainly capable of taking these tasks on to improve upon your work here!
+
+
+
 
