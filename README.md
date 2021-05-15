@@ -1,10 +1,10 @@
 # Recommendations_with_IBM
 
-### Introductions:
+## Introduction:
 
 For this project we will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles you think they will like. Below you can see an example of what the dashboard could look like displaying articles on the IBM Watson Platform.
 
-### Motivation:
+## Motivation:
 
 By completing this project, we can build a recommender system which uses machine learning approach to make predictions and evalue them on validation data and report the accuracy and prediction errors. 
 
@@ -34,13 +34,13 @@ Given the amount of content available for each article, there are a number of di
 Finally, we will complete a machine learning approach to building recommendations. Using the user-item interactions, we will build out a matrix decomposition. Using your decomposition, you will get an idea of how well you can predict new articles an individual might interact with (spoiler alert - it isn't great). we will finally discuss which methods you might use moving forward, and how you might test how well your recommendations are working for engaging users.
 
 
-### Evaluation of Results:
+## Evaluation of Results:
 
 As we use SVD for matrix factorization and then predict the test data, one of the parameters that is important for prediction is the latent factors of the SVD model. we have tried to plot the actual vs predicted values error for different latent factors, and the plot below represents this:
 
 ![](images/validation_plot.png)
 
-### Acknowledgment:
+## Acknowledgment:
 
 Many Thanks to Udacity for providing me this opportunity to work on this project and all the support.
 
@@ -49,7 +49,7 @@ This project is open for public and I appreciate any comments and any developmen
 Other models in Machine Learning are needed to improve or compare with these results. Those models would be added in future and I welcome any contributors or helps from other data scientists.
 
 
-### Contributions: 
+## Contributions: 
 
 We could now save our recommendations for each user, develop a class to make new predictions and update your results, and make a flask app to deploy your results. These tasks are beyond what is required for this project. However, from what you learned in the lessons, you certainly capable of taking these tasks on to improve upon your work here!
 
