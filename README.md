@@ -42,6 +42,9 @@ As we use SVD for matrix factorization and then predict the test data, one of th
 
 ![](images/validation_plot.png)
 
+**As we can not make recommendations for every user in the test data,we have identified just 20 users that exist in the train set, so we have predicted the articles for these users. **
+
+
 ## Acknowledgment:
 
 Many Thanks to Udacity for providing me this opportunity to work on this project and all the support.
